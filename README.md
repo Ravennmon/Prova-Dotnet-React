@@ -7,6 +7,7 @@
 
 |   Comando   |    Oque faz    |
 |-------------|----------------|
+|dotnet run | [Rodar o projeto] (Ele roda o projeto C#)
 | git user.name | [Colocar nome] (Ele inclui seu nome para commit) |
 | git user.email | [inclui o github] (Ele interliga sei gitbash ao github) |
 | mkdir | [Criar pasta] (Ele cria uma pasta para repositório) |
