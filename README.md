@@ -1,5 +1,6 @@
 # | ComandosGit para não esquecer
 
+## | Obs: Professor Diogo, esqueci de subir o zip aqui, acabou que ficou só no drive, pode desconsiderar o repositório.
 
 ## 📑 DOC | Documentação e informações de entregas.
 
